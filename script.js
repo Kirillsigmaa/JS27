@@ -170,3 +170,92 @@
 // else{
 //     alert("Отменено")
 // }
+
+
+
+
+//За 28 число
+//Задание 1
+// function plus(a,b){
+//     x = a + b;
+//     return x;
+// }
+// console.log(plus(3,3))
+// alert(x)
+
+// function minus(a,b){
+//     c = a - b;
+//     return c;
+// }
+// console.log(minus(5,3))
+// alert(c)
+
+// function mno(a,b){
+//     x2 = a * b;
+//     return x2;
+// }
+// console.log(mno(3,3))
+// alert(x2)
+
+// function del(a,b){
+//     x3 = a / b;
+//     return x3;
+// }
+// console.log(del(3,3))
+// alert(x3)
+
+// Задание 2 
+// res = prompt()
+// alert(res.length)
+
+//Задание 3
+// a = Number(prompt());
+// res = (a > 0) ? alert("больше нуля") : 
+//     (a < 0) ? alert("меньше нуля") :
+//     (a == 0) ? alert("равен нулю") : alert("?")
+
+//Задание 4
+// v = Number(prompt());
+// g = Number(prompt());
+// function arif(a,b){
+//     p = (a + b)/2
+//     return p;
+// }
+// console.log(arif(v,g))
+// alert(p)
+
+//Задание 5
+// var ob = {
+//     nameb : "Иван",
+//     age : 19
+// }
+// alert(ob.nameb);
+// alert(ob.age);
+
+//Задание 6
+// a = Number(prompt());
+// if((a % 2) == 0 ){
+//     alert("Чётное")
+// }
+// else{
+//     alert("Не чётное")
+// }
+
+//Задание 7
+// v = Number(prompt());
+// if(v > 0){
+//     console.log("положительное")
+// }
+// else{
+//     console.log("отрицательное")
+// }
+
+//Задание 8
+// v = Number(prompt());
+// g = Number(prompt());
+// if((v % g) == 0){
+//     alert("без остатка")
+// }
+// else{
+//     alert("с остатком")
+// }
