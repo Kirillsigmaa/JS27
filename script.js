@@ -149,24 +149,24 @@
 // if (null || -1 && 1) alert( 'third' );
 
 //Задача 23
-alert("Хто вы?");
-let who = prompt();
-if(who == "Админ"){
-    alert("Пароль есть?");
-    let parol = prompt();
-    if(parol == "Я главный"){
-        alert("Здравствуйте!")
-    }
-    if(parol != "Я главный"){
-        alert("НЕВЕРНО!!!")
-    }
-    else{
-        alert("Отменено")
-    }
-}
-else if(who != "Админ"){
-    alert("Я вас не знаю")
-}
-else{
-    alert("Отменено")
-}
+// alert("Хто вы?");
+// let who = prompt();
+// if(who == "Админ"){
+//     alert("Пароль есть?");
+//     let parol = prompt();
+//     if(parol == "Я главный"){
+//         alert("Здравствуйте!")
+//     }
+//     if(parol != "Я главный"){
+//         alert("НЕВЕРНО!!!")
+//     }
+//     else{
+//         alert("Отменено")
+//     }
+// }
+// else if(who != "Админ"){
+//     alert("Я вас не знаю")
+// }
+// else{
+//     alert("Отменено")
+// }
